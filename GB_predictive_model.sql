@@ -1,0 +1,1 @@
+SELECT * FROM predictive_model.gradient_boosting_predictions;
