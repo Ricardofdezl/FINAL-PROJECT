@@ -23,8 +23,8 @@ Overview:
    - Display in a barchart Massimo Duti's top 10 categories by average price.
 
 -HYPOTHESIS TESTING:
-   - One sample T-Test:H0: avg prices for Man == 55
-                       H1: avg prices for Man != 55
+   - One sample T-Test: H0: avg prices for Man == 55
+                        H1: avg prices for Man != 55
   
    -Two Sample T-Test(Indep): H0: mu price male >= mu price female
                               H1: mu price male < mu price female
@@ -34,6 +34,22 @@ Overview:
    
    -Proportion Z-Test: H0: proportion of 'shoes' in the dataset = 0.3 
                        H1: proportion of 'shoes' in the dataset!= 0.3
+
+-MACHINE LEARNING: GD Predictive Model (price prediction)
+ -In another notebook, import the necessary libraries.
+ -import brands_csv.
+ -Create a Correlation Matrix just taking into account 'price', 'promotion'and 'section'.
+ -Apply feature scaling to numerical columns.
+ -Do a Train-test split process.
+ -Do a linear regression model and its evaluation.
+ -Do Decision Tree model.
+ -Do Random Forest model.
+ -Do Gradient Boosting.
+ -Do hyperparameter Tuning for Random Forest.
+ -Do hyperparameter Tuning for Gradient Boosting.
+ -Create a csv with the best model.
+ -Display the results of the actual price and it's prediction.
+ 
 
      
      
