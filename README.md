@@ -35,7 +35,8 @@ Overview:
    -Proportion Z-Test: H0: proportion of 'shoes' in the dataset = 0.3 
                        H1: proportion of 'shoes' in the dataset!= 0.3
 
--MACHINE LEARNING: GD Predictive Model (price prediction)
+
+*-MACHINE LEARNING:* GD Predictive Model (price prediction)
  
  -In another notebook, import the necessary libraries.
  
