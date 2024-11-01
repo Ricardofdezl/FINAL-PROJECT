@@ -25,10 +25,13 @@ Overview:
 -HYPOTHESIS TESTING:
    - One sample T-Test:H0: avg prices for Man == 55
                        H1: avg prices for Man != 55
+  
    -Two Sample T-Test(Indep): H0: mu price male >= mu price female
                               H1: mu price male < mu price female
+   
    -Two Sample T-Test(Indep): H0: mu price Zara >= mu price Massimo Duti
                               H1: mu price Zara < mu price Massimo Duti
+   
    -Proportion Z-Test: H0: proportion of 'shoes' in the dataset = 0.3 
                        H1: proportion of 'shoes' in the dataset!= 0.3
 
